@@ -9,9 +9,10 @@
 int main(){
     //출력
     //printf() 함수 → (입력) 값을 출력해주는 함수
-    printf(hello \t c);
+    printf("hello \t c");
     
-    printf(HI \n C);
+    printf("HI \n C");
+
 }
 
 // \n or \t 와일드카드 문자열
