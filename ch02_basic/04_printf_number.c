@@ -5,7 +5,7 @@
 // -정수 (%d) → decimal
 // -실수 (%lf) → Float
 // -문자 (%c) → character
-// -문자열 ($s) → String
+// -문자열 (%s) → String
 
 int main() { 
     //%d 위치에 10을 출력!
