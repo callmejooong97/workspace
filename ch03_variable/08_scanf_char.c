@@ -1,3 +1,5 @@
+  //<문자열은 중간고사에서 안나와요!>
+
 #include<stdio.h>
 
 int main() {

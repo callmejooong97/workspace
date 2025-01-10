@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+  // 시험에나온대요
+  
 /* 
  * 삼항 연산자(Conditional Operator)
  - 세개의 항을 사용하는 연산자

@@ -19,7 +19,7 @@ int main() {
 //2. 캐스팅
     double pi=3.14;
     int a;
-    a=(int)pi;
+    a=(int)pi;  //값의 손실이 일어남을 알지만 이렇게 해다오
     printf("%d",a);
 
 }
