@@ -15,6 +15,7 @@ int main(){
     //while(10>num){
        // printf("10보다 작아요!");
     //}
+    // while문은 실행문 수행후 다시 조건문으로 감(printf로 가는게 아님!)
 
     while(10>num){
         num=num+1;
