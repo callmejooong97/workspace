@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * 함수(method,function
+ * 함수(method,function)
  * - 특별한 목적의 작업을 수행하기 위해 독립적으로 설계된 코드의 집합)
  * - 기능을 수행하는 코드 단위
  * - 반복적인 작업을 피하기 위해 사용

@@ -10,10 +10,10 @@
 int get_num(void);
 
 int get_num(void){
-    return 5;
+    return 'A';
 }
 
 int main(){
-    printf("%d",get_num());
+    printf("%c",get_num());
 }
 
