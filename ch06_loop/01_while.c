@@ -19,6 +19,6 @@ int main(){
 
     while(10>num){
         num=num+1;
-        printf("10보다 작아요!");
+        printf("10보다 작아요!\n");
     }
 }

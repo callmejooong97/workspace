@@ -20,7 +20,7 @@ class
 3. 스네이크 케이스 → age,student_number
     - Python(V,M)
 4. 케밥 케이스 → age,student-number
-    - HTML,CSS,
+    - HTML,CSS
     
     JAVA 예시
     StudentNumber → class

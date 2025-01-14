@@ -20,13 +20,14 @@ int main(){
     switch(rank){
         case 1:
             m=100;
+            break;
         case 2:
             m=200;
             break;
         case 3:
             m=300;
             break;
-        default;  // 조건에 만족하는 case가 없는 경우
+        default:  // 조건에 만족하는 case가 없는 경우
             m=999;
             break;
     }

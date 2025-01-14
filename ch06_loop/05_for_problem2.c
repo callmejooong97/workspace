@@ -8,6 +8,7 @@
 int main(){
     for(int i=2;i <=9 ; i++){  //2단인지,3단인지 정함. (단수 결정)
         for(int j=1;j <=9 ; j++){  //x1~x9까지 출력
-        printf("%dx%d=%d",i,j,i*j);
+        printf("%dx%d=%d\n",i,j,i*j);
+    }
     }
 }

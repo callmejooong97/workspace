@@ -18,7 +18,9 @@ void voidFnc(){
 
 char intFnc(){
     return 'A';   // return 값의 타입을 앞에 적어줘야함 (chr)
+    printf("%c 입니다.",intFnc);
 }
+
 
 char main(){
     voidFnc();
