@@ -6,7 +6,7 @@ int main() {
     int height;
     int weight;
 
-    printf("your height(cm): ");
+    printf("your height (cm): ");
     scanf("%d", &height);
 
     printf("your weight(kg): ");
